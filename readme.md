@@ -20,3 +20,8 @@
 ###	4. Koma með áætlun til þess að leysa vandann og finna lausninna
 ###	5. Prufa hvort að kerfið virki ekki alveg örugglega eftir á og ef hægt reyna að koma í veg fyrir fyrirsjáanlega galle
 ###	6. Skrá niður lausn og nótur þannig að þær gæti nýst við líku vandamáli ef ekki hinu sömu í framtíðinni
+
+#7. Hver er munurinn á opinn (e. open ended) og lokaðri (closed ended) spurningu? Nefnið dæmi um báðar gerðir af spurningum.
+###	Opin spurning er spurning sem að leyfir svarandanum að svara á frjálsan hátt.
+###	Lokuð spurning er spurning sem að minnkar valkosti svarandas niður í svör ein og t.d. Já, Nei, A, B eða C
+###	**Líður þér vel** _VS_ **Hvernig líður þér**
