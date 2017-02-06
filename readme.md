@@ -25,3 +25,6 @@
 ###	Opin spurning er spurning sem að leyfir svarandanum að svara á frjálsan hátt.
 ###	Lokuð spurning er spurning sem að minnkar valkosti svarandas niður í svör ein og t.d. Já, Nei, A, B eða C
 ###	**Líður þér vel** _VS_ **Hvernig líður þér**
+
+#8. Hvað eru jaðartæki?
+###	Outputs og Inputs, hlutir sem gers okkur kleyft að hafa samskipti við tölvunna
