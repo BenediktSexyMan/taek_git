@@ -28,3 +28,6 @@
 
 #8. Hvað eru jaðartæki?
 ###	Outputs og Inputs, hlutir sem gers okkur kleyft að hafa samskipti við tölvunna
+
+#9. Nefndu þrjú dæmi um inntakstæki.
+###	Lyklaborð, Mús, Usb Tengi o.s.f.v.
