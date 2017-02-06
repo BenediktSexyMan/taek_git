@@ -9,3 +9,6 @@
 
 #4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
 ###	Electrostatic discharge, að tengja sig við jörð
+
+#5. Hvað þarf að hafa í huga við val á spennugjöfum?
+###	Spennugjafinn er folin með í huga hversu mikið afl móðurborðir þarf meðal annars
