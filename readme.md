@@ -6,3 +6,6 @@
 
 #3. Hvað er fyrirbyggjandi viðhald?
 ###	Að viðhalda tölvunni sinni rétt
+
+#4. Fyrir hvað stendur skammstöfunin ESD, hvað er það og hvaða leiðir höfum við til að verjast því þegar unnið er með tölvubúnað?
+###	Electrostatic discharge, að tengja sig við jörð
