@@ -3,3 +3,6 @@
 
 #2. Fyrir hvað stendur skammstöfunin ROM? Útskýrðu hvað ROM er.
 ###	ROM er minni sem er oft notað í nánu samræmi við vélbúnað tölvunar vegna þess hversu hægt og erfitt er að skrifa á það
+
+#3. Hvað er fyrirbyggjandi viðhald?
+###	Að viðhalda tölvunni sinni rétt
